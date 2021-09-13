@@ -59,7 +59,7 @@ print(arrayThree + '\n')
 print('\n')
 
 // part 7
-const string = 'de dikke doode vogel'; // 4 d's
+const string = 'de doodde dikke dromedaris'; // 4 d's
 let count = 0;
 
 let tmp = string.split('');
