@@ -4,6 +4,8 @@ function print(text) {
     body.innerText += text;
 }
 
+print('Code by Thijn\n\n')
+
 // part 1
 for (let i = 0; i <= 10; i++) {
     print(i + '\n');
@@ -59,7 +61,7 @@ print(arrayThree + '\n')
 print('\n')
 
 // part 7
-const string = 'de doodde dikke dromedaris'; // 4 d's
+const string = 'de dikke doode vogel'; // 4 d's
 let count = 0;
 
 let tmp = string.split('');
